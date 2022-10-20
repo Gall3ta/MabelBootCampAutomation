@@ -1,0 +1,2 @@
+# MabelBootCampAutomation
+mojix bootcamp
